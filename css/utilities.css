@@ -1,0 +1,30 @@
+/**alle knoppen in mijn website**/
+
+/**dit is het menu balk**/
+#main-menu {
+    position: sticky;
+    top: 0;
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: darkgray;
+}
+
+/**knoppen in website**/
+a {
+    text-decoration: none;
+    padding: 12px 12px;
+    color: black;
+}
+
+.knop {
+    padding: 1rem 1rem;
+    background-color: black;
+    color: white;
+}
+
+#next-back {
+    padding: 1rem;
+}
+
+

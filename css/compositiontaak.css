@@ -1,0 +1,21 @@
+html {
+    font-family: sans-serif;
+    background-color: #4006e0;
+}
+
+img {
+    max-width: 200px;
+}
+
+h1, h2, h3, h4 {
+    color: #F00000;
+}
+
+a {
+    color: #0F0F;
+    text-decoration: none;
+}
+
+
+
+

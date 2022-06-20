@@ -1,0 +1,16 @@
+/**punten balk word hier gemaakt**/
+
+.balkje {
+    background-color: var(--color-complement);
+    border-radius: 999px;
+    min-height: 20px;
+}
+
+.vooruitgang {
+    background-color: red;
+    color: var(--color-dominant);
+    text-align: center;
+    border-radius: inherit;
+    min-height: inherit;
+}
+
